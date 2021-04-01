@@ -9,5 +9,3 @@ port_for_httpd_svc: "3898"
 
 Docker_Host_ip_addr: 
     - "{{ inventory_hostname }}"
-
-
